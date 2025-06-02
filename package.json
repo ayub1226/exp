@@ -1,0 +1,14 @@
+{
+  "name": "zepto-homepage",
+  "version": "1.0.0",
+  "description": "Static Zepto-like homepage using Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
